@@ -1,0 +1,11 @@
+[Flags]
+AllowDownload=False
+ServerSideOnly=True
+ClientOptional=False
+Official=False
+
+[Package_Description]
+ServerExt link with OLStats
+Seperate package in order to prevent a dependency
+with a 3rd party addon.
+
